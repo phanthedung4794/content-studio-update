@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "notes": "Them kieu anh 'Den trang xuc dong (Ngam Doi)'",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.1.0.zip",
-  "sha256": "693c5d3675b323cffebba7130480381e0e840728303bc698af2e1144b0cbc932"
+  "version": "1.1.1",
+  "notes": "Kieu anh Ngam Doi hien trong dropdown Kieu anh (Nguon&Kho dem + Tu dong theo page)",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.1.1.zip",
+  "sha256": "e8b96fa64a09c75f41330ee5773a9c0ffce1053c3ad9604f98eac471d52b5ca9"
 }
