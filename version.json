@@ -1,6 +1,6 @@
 {
-  "version": "1.1.1",
-  "notes": "Kieu anh Ngam Doi hien trong dropdown Kieu anh (Nguon&Kho dem + Tu dong theo page)",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.1.1.zip",
-  "sha256": "e8b96fa64a09c75f41330ee5773a9c0ffce1053c3ad9604f98eac471d52b5ca9"
+  "version": "1.1.2",
+  "notes": "Nhan dien goi thue bao (video/anh con lai), nut Cap nhat tu dong, VEO/Grok 720p free theo quota, autopilot khong bi chan credit sau khi mua goi, nut Nap lai page tu BM, Thu vien + Chi so page hien du page",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.1.2.zip",
+  "sha256": "4d09fc54bdac0cb0414b6fbb7715113c11f4d3655be92ba37354c61108035bbb"
 }
