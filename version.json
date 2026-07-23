@@ -1,6 +1,6 @@
 {
-  "version": "1.1.2",
-  "notes": "Nhan dien goi thue bao (video/anh con lai), nut Cap nhat tu dong, VEO/Grok 720p free theo quota, autopilot khong bi chan credit sau khi mua goi, nut Nap lai page tu BM, Thu vien + Chi so page hien du page",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.1.2.zip",
-  "sha256": "4d09fc54bdac0cb0414b6fbb7715113c11f4d3655be92ba37354c61108035bbb"
+  "version": "1.1.3",
+  "notes": "Va nut Dung: huy job dang chay + don item ket -> Star lai chay ngay (truoc ket 'dang remake' mai)",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.1.3.zip",
+  "sha256": "2ae31a042a7478deb42cf851036c70d54669446ed97789ec0b2ebb95fe1919ac"
 }
