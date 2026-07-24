@@ -1,6 +1,6 @@
 {
-  "version": "1.2.3",
-  "notes": "Them o nhap key Google Gemini o Cai dat + Onboarding (Gemini la engine chinh, bat buoc; OpenAI thanh tuy chon) + test key that. Cong don 16 file.",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.3.zip",
-  "sha256": "89b7e6b1f5de99b8f364a976484a488b2f03e1abb1cc975f6df87b456e2f2faf"
+  "version": "1.2.4",
+  "notes": "Va loi khach: reel nguon KHONG co tieng (DASH mat audio) lam ffmpeg CRASH o khau ghep cuoi SAU khi da ve het clip -> map audio dau '?' (nguon cam thi video im, khong mat clip). Them _ff bat stderr ffmpeg -> loi doc duoc. Cong don 16 file.",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.4.zip",
+  "sha256": "3669c80c4fae1361f0c63a12b36db319a3a937bb05c3a88ead3d6554202f6f04"
 }
