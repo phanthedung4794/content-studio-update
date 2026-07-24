@@ -1,6 +1,6 @@
 {
-  "version": "1.2.5",
-  "notes": "Nut 'Lam lai viec da dung' (o Tong quan page): quet moi viec bi Stop giua chung -> tu chay tiep, tai dung clip/anh da lam (0 credit them), khong co thi bao. Caption Gemini LUON them #xuhuong + #viral. Cong don 16 file.",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.5.zip",
-  "sha256": "2cad297fc92c96d165be0b9b88002f4ac654bf2da6891d155b5365be3487879e"
+  "version": "1.2.6",
+  "notes": "Nut Thu lai / Lam lai viec da dung: nham DUNG reel cu -> RESUME that (giu clip/anh da lam, khong lam lai tu dau). Truoc do retry chon lai reel + work dir 'auto' khac -> mat cache. Them log 'Da co X/N canh -> lam tiep'. Cong don 16 file.",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.6.zip",
+  "sha256": "4c46c151433c3256059edb94a11e5d9d19a1783734502384eed98db05b5ab9f5"
 }
