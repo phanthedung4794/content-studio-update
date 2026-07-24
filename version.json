@@ -1,6 +1,6 @@
 {
-  "version": "1.2.8",
-  "notes": "Tab 'Hang doi' TO trong Dang hang loat (de nhin, cap nhat song). Nut 'Lam lai tat ca (loi + da dung)' quet MOI item loi/dung khap page -> chay tiep 1 lan (nham dung reel, khong nhan doi). Ghep video: muot loi -> thu MUOT 1 luong (ne libx264 -22, van muot) -> cuoi cung cat thang. Cong don 16 file.",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.8.zip",
-  "sha256": "7f913a7c3d84f9a363b1eaeec036527dbb3ab63227a7754426540f1aedcaa318"
+  "version": "1.2.9",
+  "notes": "Tach 2 nut: 'Lam lai loi' + 'Lam lai da dung' (chay lai SONG SONG toi da so video song song). Bulk retry GIAN GIO dang theo gap nguoi dung chon -> khong con trung 1 gio dang. Cong don 16 file.",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.9.zip",
+  "sha256": "33ca10de6d2008218a7996189d92fce24ccf04de09f27c7dc00a244977c0905c"
 }
