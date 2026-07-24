@@ -1,6 +1,6 @@
 {
-  "version": "1.2.6",
-  "notes": "Nut Thu lai / Lam lai viec da dung: nham DUNG reel cu -> RESUME that (giu clip/anh da lam, khong lam lai tu dau). Truoc do retry chon lai reel + work dir 'auto' khac -> mat cache. Them log 'Da co X/N canh -> lam tiep'. Cong don 16 file.",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.6.zip",
-  "sha256": "4c46c151433c3256059edb94a11e5d9d19a1783734502384eed98db05b5ab9f5"
+  "version": "1.2.7",
+  "notes": "veo bi TU CHOI noi dung (prompt nguy hiem): lam mem prompt thu lai, du 3 lan tu choi -> NHAY grok (CHI khi bi tu choi; treo/lau GIU veo tranh flood). Ghep video cuoi loi -22 (libx264) -> tu chuyen GHEP AN TOAN (cat thang) giu clip da ve. Cong don 16 file.",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.7.zip",
+  "sha256": "00c99a699f4ed598b1b2ab04bd85ccd6f6a473d609df41c6a9592fd40618a0fa"
 }
