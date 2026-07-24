@@ -1,6 +1,6 @@
 {
-  "version": "1.2.7",
-  "notes": "veo bi TU CHOI noi dung (prompt nguy hiem): lam mem prompt thu lai, du 3 lan tu choi -> NHAY grok (CHI khi bi tu choi; treo/lau GIU veo tranh flood). Ghep video cuoi loi -22 (libx264) -> tu chuyen GHEP AN TOAN (cat thang) giu clip da ve. Cong don 16 file.",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.7.zip",
-  "sha256": "00c99a699f4ed598b1b2ab04bd85ccd6f6a473d609df41c6a9592fd40618a0fa"
+  "version": "1.2.8",
+  "notes": "Tab 'Hang doi' TO trong Dang hang loat (de nhin, cap nhat song). Nut 'Lam lai tat ca (loi + da dung)' quet MOI item loi/dung khap page -> chay tiep 1 lan (nham dung reel, khong nhan doi). Ghep video: muot loi -> thu MUOT 1 luong (ne libx264 -22, van muot) -> cuoi cung cat thang. Cong don 16 file.",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.8.zip",
+  "sha256": "7f913a7c3d84f9a363b1eaeec036527dbb3ab63227a7754426540f1aedcaa318"
 }
