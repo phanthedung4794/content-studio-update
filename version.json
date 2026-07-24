@@ -1,6 +1,6 @@
 {
-  "version": "1.1.6",
-  "notes": "Het treo: 79AI 'goi qua nhanh' tu cho roi thu lai; loi thi bao ro (co nut thu lai) khong ket; cot Tien trinh chay song nhu hang doi",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.1.6.zip",
-  "sha256": "ac7330149ecb12cd8efba316a7c66192373d0a0d04f35a000ea22da1698e3ed0"
+  "version": "1.1.7",
+  "notes": "Va loi cap nhat khong cong don: fb_auto goi set_progress nhung fb_remake cu -> nay patch gop DU file (server/fb_remake/fb_auto/gommo_client/app.js...) cho khach moi ban",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.1.7.zip",
+  "sha256": "b2337eeba4e22aa47468d26358464d7c14e3371bff6d50c820a85a74887a4008"
 }
