@@ -1,6 +1,6 @@
 {
-  "version": "1.2.1",
-  "notes": "Gemini thay OpenAI (phan tich nguon + dung canh); caption VIRAL (Gemini viet lai + bo quang ba kenh); het GIAT khi ghep video; chon reel ngau nhien/cu nhat; Thu vien Da dang theo ngay; dong bo nguon Google Sheet; sua nut Xem video 5 page profile.php. Cong don 16 file.",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.1.zip",
-  "sha256": "e4790708b39f7722dd3709ceceb4ead6197fee6c381e8df7e1f56ef0b0df8ef1"
+  "version": "1.2.2",
+  "notes": "Cao nguon LAY HET reel (bo cap 600 -> lay du de random dung du pool); cao song song KHONG con loi thieu 'h2' (http2 tuy chon HTTP/1.1) + luon rot cao tuan tu neu loi. Cong don 16 file.",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.2.zip",
+  "sha256": "dad1988243d62bf53b01424bf6675fd9644295c04efb8174406afdaa17aa3dc9"
 }
