@@ -1,6 +1,6 @@
 {
-  "version": "1.1.9",
-  "notes": "CHOT GOC: Dong bo so lieu loi do file JSON co BOM UTF-8 -> doc bang utf-8-sig. Kem Cao API/song song + Danh Sach Nguon. Patch cong don 14 file.",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.1.9.zip",
-  "sha256": "f9b4b6d431e989923733b8a890123227c763aefb45d4a0511f420dbade151676"
+  "version": "1.2.1",
+  "notes": "Gemini thay OpenAI (phan tich nguon + dung canh); caption VIRAL (Gemini viet lai + bo quang ba kenh); het GIAT khi ghep video; chon reel ngau nhien/cu nhat; Thu vien Da dang theo ngay; dong bo nguon Google Sheet; sua nut Xem video 5 page profile.php. Cong don 16 file.",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.1.zip",
+  "sha256": "e4790708b39f7722dd3709ceceb4ead6197fee6c381e8df7e1f56ef0b0df8ef1"
 }
