@@ -1,6 +1,6 @@
 {
-  "version": "1.2.9",
-  "notes": "Tach 2 nut: 'Lam lai loi' + 'Lam lai da dung' (chay lai SONG SONG toi da so video song song). Bulk retry GIAN GIO dang theo gap nguoi dung chon -> khong con trung 1 gio dang. Cong don 16 file.",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.9.zip",
-  "sha256": "33ca10de6d2008218a7996189d92fce24ccf04de09f27c7dc00a244977c0905c"
+  "version": "1.2.10",
+  "notes": "Nut 'Quet loi (den buoc nao)': quet moi item loi -> kiem da di toi buoc nao (tai/chep loi/phan tich/tao anh/tao clip/ghep) -> ghi len cot trang thai. Khong ton credit. Remake bao ro dau: da co X clip/anh -> noi tiep. Cong don 16 file.",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.10.zip",
+  "sha256": "ebd4b812997a249551c9e772c65105a9a5056489f968a4549a442fb8a2ea4dcd"
 }
