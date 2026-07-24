@@ -1,6 +1,6 @@
 {
-  "version": "1.2.4",
-  "notes": "Va loi khach: reel nguon KHONG co tieng (DASH mat audio) lam ffmpeg CRASH o khau ghep cuoi SAU khi da ve het clip -> map audio dau '?' (nguon cam thi video im, khong mat clip). Them _ff bat stderr ffmpeg -> loi doc duoc. Cong don 16 file.",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.4.zip",
-  "sha256": "3669c80c4fae1361f0c63a12b36db319a3a937bb05c3a88ead3d6554202f6f04"
+  "version": "1.2.5",
+  "notes": "Nut 'Lam lai viec da dung' (o Tong quan page): quet moi viec bi Stop giua chung -> tu chay tiep, tai dung clip/anh da lam (0 credit them), khong co thi bao. Caption Gemini LUON them #xuhuong + #viral. Cong don 16 file.",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.5.zip",
+  "sha256": "2cad297fc92c96d165be0b9b88002f4ac654bf2da6891d155b5365be3487879e"
 }
