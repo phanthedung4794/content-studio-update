@@ -1,6 +1,6 @@
 {
-  "version": "1.2.11",
-  "notes": "Nut 'Lam lai loi/da dung' khoi phuc tran luong ve 'So video chay song song' (Cai dat, mac dinh 5) — truoc do lan Star cuoi ha xuong 3 lam retry ket 3 luong. Toast bao ro N luong chay + phan du cho toi luot. Cong don 16 file.",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.11.zip",
-  "sha256": "0ba92b17638a59a3f62b2cd98718db37ffbffc71c7ee3789314b98042226d306"
+  "version": "1.2.12",
+  "notes": "Nut 'Xoa loi rong (no UID)': xoa han item Loi/Da huy KHONG co reel (chet rat som, khong the thu lai = rac trong danh sach). An toan (chi xoa item terminal thieu reel). Cong don 16 file.",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.12.zip",
+  "sha256": "0d3e48ec8f03559256b6bab3da92d91953fb30bd5e9b70e9f5278afe3823c251"
 }
