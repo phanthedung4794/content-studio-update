@@ -1,6 +1,6 @@
 {
-  "version": "1.2.12",
-  "notes": "Nut 'Xoa loi rong (no UID)': xoa han item Loi/Da huy KHONG co reel (chet rat som, khong the thu lai = rac trong danh sach). An toan (chi xoa item terminal thieu reel). Cong don 16 file.",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.12.zip",
-  "sha256": "0d3e48ec8f03559256b6bab3da92d91953fb30bd5e9b70e9f5278afe3823c251"
+  "version": "1.2.13",
+  "notes": "Dung TOKEN sua lich FB: (1) nut 'Sua lich trung (3h)' - quet page, page nao co bai TRUNG GIO thi gian 3h/bai (xem truoc roi sua that). (2) Tu dong: truoc khi len lich bai moi -> check lich FB, trung gio thi day sang slot trong (vd 6h/10h/13h -> bai moi 16h). Cong don 16 file.",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.13.zip",
+  "sha256": "7f486805998435d5502d6ba89005da2bbbf40e675c70e0b03fd8659d66bf7f50"
 }
