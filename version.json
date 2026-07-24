@@ -1,6 +1,6 @@
 {
-  "version": "1.1.7",
-  "notes": "Va loi cap nhat khong cong don: fb_auto goi set_progress nhung fb_remake cu -> nay patch gop DU file (server/fb_remake/fb_auto/gommo_client/app.js...) cho khach moi ban",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.1.7.zip",
-  "sha256": "b2337eeba4e22aa47468d26358464d7c14e3371bff6d50c820a85a74887a4008"
+  "version": "1.1.8",
+  "notes": "Va Dong bo so lieu loi (chong 500 mu + lo nguyen nhan); them Cao API/song song + Danh Sach Nguon (an toan khi thieu httpx). Patch cong don 14 file.",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.1.8.zip",
+  "sha256": "23d5e90556267dc1e94ff42ec47d21ceda67771e441e22cfd2c2b1a5f5df2fab"
 }
