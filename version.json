@@ -1,6 +1,6 @@
 {
-  "version": "1.2.10",
-  "notes": "Nut 'Quet loi (den buoc nao)': quet moi item loi -> kiem da di toi buoc nao (tai/chep loi/phan tich/tao anh/tao clip/ghep) -> ghi len cot trang thai. Khong ton credit. Remake bao ro dau: da co X clip/anh -> noi tiep. Cong don 16 file.",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.10.zip",
-  "sha256": "ebd4b812997a249551c9e772c65105a9a5056489f968a4549a442fb8a2ea4dcd"
+  "version": "1.2.11",
+  "notes": "Nut 'Lam lai loi/da dung' khoi phuc tran luong ve 'So video chay song song' (Cai dat, mac dinh 5) — truoc do lan Star cuoi ha xuong 3 lam retry ket 3 luong. Toast bao ro N luong chay + phan du cho toi luot. Cong don 16 file.",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.11.zip",
+  "sha256": "0ba92b17638a59a3f62b2cd98718db37ffbffc71c7ee3789314b98042226d306"
 }
