@@ -1,6 +1,6 @@
 {
-  "version": "1.2.13",
-  "notes": "Dung TOKEN sua lich FB: (1) nut 'Sua lich trung (3h)' - quet page, page nao co bai TRUNG GIO thi gian 3h/bai (xem truoc roi sua that). (2) Tu dong: truoc khi len lich bai moi -> check lich FB, trung gio thi day sang slot trong (vd 6h/10h/13h -> bai moi 16h). Cong don 16 file.",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.13.zip",
-  "sha256": "7f486805998435d5502d6ba89005da2bbbf40e675c70e0b03fd8659d66bf7f50"
+  "version": "1.2.14",
+  "notes": "Dang bang CHROME (khong dung token): hop Star them 2 nut Lam video / Lam anh + tab Token/Chrome, kho cho + watchdog tu mo Chrome dang dung gio (gian cach moi PAGE + moi bai), chu HOOK tren dau video (suot video hoac chi 3 giay dau) do Gemini viet, BAI DANG ANH tu Gemini + 79AI ve + ghi chu tieng Viet. Cong don 21 file.",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.14.zip",
+  "sha256": "2ebfdb052990f88ca493026f20661f16e76ee05380500d811110f78ec5b6fd34"
 }
