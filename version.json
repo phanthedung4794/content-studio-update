@@ -1,6 +1,6 @@
 {
-  "version": "1.2.16",
-  "notes": "Bai dang ANH chay nhu video: moi page 1 luong SONG SONG qua hang doi, bam Tao la ve man hinh chinh theo doi song; Gemini tu lay CHU DE TU VIDEO cua page (khong lap chu de cu); bai anh co HASHTAG; chu tren anh tu sang len khi nen toi (truoc gan nhu khong doc duoc tren tranh den trang); dang xong dong tab nhung giu lai 1 tab; gio hen da qua >2h thi doi sang hom sau thay vi dang ngay; VA loi cao nguon: reel trong khung thong bao lot vao index cua page (1 id dinh o ca 9 page). Cong don 23 file.",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.16.zip",
-  "sha256": "dd1ddb85be2106f5bb9f9289ff196b1b2c084f9ef9d11633cf76d4cdf4790092"
+  "version": "1.2.17",
+  "notes": "Sua LICH DANG cho dung: 'Dang luon' thi page lam xong dau tien dang NGAY, page sau gian dung so phut da cai, bai lan 2 tinh tu lan 1 cua chinh page do (truoc bi don chung mot gio = dang lien tuc). Chan chay bua: page chua gan link nguon / chua cao thi khong chay + bao ro ly do. Bo gioi han so luong chay song song (dat 0 = chay het). Dong bo Google Sheet TU THEM DONG cho page moi; dan link nguon va link Sheet TU LUU. Bai dang ANH chay song song nhu video, theo doi song o man hinh chinh, co hashtag, chu tu sang len khi nen toi, chu de do Gemini lay tu chinh video cua page va khong lap lai. Cao nguon: chan reel la cua khung thong bao lot vao danh sach page. Giao dien: thu gon 2 bang lich, chon tat ca, hien du id reel, khong con nhay len dau trang khi sua cau hinh. Cong don 23 file.",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.17.zip",
+  "sha256": "0ac90465cab82bdb97749493679ab13e4c8da23c87804d85e68e5b435a4ceedf"
 }
