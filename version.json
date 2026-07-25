@@ -1,6 +1,6 @@
 {
-  "version": "1.2.14",
-  "notes": "Dang bang CHROME (khong dung token): hop Star them 2 nut Lam video / Lam anh + tab Token/Chrome, kho cho + watchdog tu mo Chrome dang dung gio (gian cach moi PAGE + moi bai), chu HOOK tren dau video (suot video hoac chi 3 giay dau) do Gemini viet, BAI DANG ANH tu Gemini + 79AI ve + ghi chu tieng Viet. Cong don 21 file.",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.14.zip",
-  "sha256": "2ebfdb052990f88ca493026f20661f16e76ee05380500d811110f78ec5b6fd34"
+  "version": "1.2.15",
+  "notes": "Bai dang ANH: Gemini tu lay CHU DE TU CHINH VIDEO cua tung page (caption reel view cao nhat) - khong con phai go chu de tay, va khong lap lai chu de da ra. VA loi CAO NGUON: reel trong khung thong bao/quang cao cua Chrome lot vao index cua page (1 id dinh o ca 9 page) -> chan + tu don khi cao. O Backlog hien DU id reel (truoc cat 5 so cuoi). Cong don 21 file.",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.15.zip",
+  "sha256": "0a819942daa3934cff3791787c11a0d6806da5c30fd5877e6b4796bf44c659da"
 }
