@@ -1,6 +1,6 @@
 {
-  "version": "1.2.15",
-  "notes": "Bai dang ANH: Gemini tu lay CHU DE TU CHINH VIDEO cua tung page (caption reel view cao nhat) - khong con phai go chu de tay, va khong lap lai chu de da ra. VA loi CAO NGUON: reel trong khung thong bao/quang cao cua Chrome lot vao index cua page (1 id dinh o ca 9 page) -> chan + tu don khi cao. O Backlog hien DU id reel (truoc cat 5 so cuoi). Cong don 21 file.",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.15.zip",
-  "sha256": "0a819942daa3934cff3791787c11a0d6806da5c30fd5877e6b4796bf44c659da"
+  "version": "1.2.16",
+  "notes": "Bai dang ANH chay nhu video: moi page 1 luong SONG SONG qua hang doi, bam Tao la ve man hinh chinh theo doi song; Gemini tu lay CHU DE TU VIDEO cua page (khong lap chu de cu); bai anh co HASHTAG; chu tren anh tu sang len khi nen toi (truoc gan nhu khong doc duoc tren tranh den trang); dang xong dong tab nhung giu lai 1 tab; gio hen da qua >2h thi doi sang hom sau thay vi dang ngay; VA loi cao nguon: reel trong khung thong bao lot vao index cua page (1 id dinh o ca 9 page). Cong don 23 file.",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.16.zip",
+  "sha256": "dd1ddb85be2106f5bb9f9289ff196b1b2c084f9ef9d11633cf76d4cdf4790092"
 }
