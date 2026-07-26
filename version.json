@@ -1,6 +1,6 @@
 {
-  "version": "1.2.18",
-  "notes": "Va model VEO/GROK: nhay grok NGAY khi 79AI bao model tat han (truoc phai doi du 3 lan resubmit vo ich). Anh tu canh gio: canh cho qua 15' se nhuong canh khac lam truoc thay vi dung khung ca video, quay lai cho tiep sau; loi that bao ngay sau 2 lan (truoc 4 lan). Them o chon MODEL VE ANH rieng o hop Star. Doi model ve anh MAC DINH sang 3.0-omni (nhanh hon banana_pro nhieu khi 79AI dong, van mien phi trong goi).",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.18.zip",
-  "sha256": "a100a96cb3af5aff34436d98db7c1a72d88e95163fd3e62bb04497d5a61b04e6"
+  "version": "1.2.19",
+  "notes": "Dong bo lich dang song song: bo gioi han so luong (max_jobs mac dinh 0), duong token dung chung cong thuc fb_slots voi Chrome (vong 1 gian theo page, vong 2+ gian theo bai truoc cua chinh page do, khong phu thuoc page khac), va bug che do dang luon bo qua gian cach vong 1. Them img_model cho duong ANH (truoc chi video co) + dropdown chon model ve anh trong hop Star cho ca Lam anh/Lam video.",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.19.zip",
+  "sha256": "91d213610d7af3bacc6bc1ca1f32d1c68368b2b304434f8635b68be30b83840c"
 }
