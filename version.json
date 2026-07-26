@@ -1,6 +1,6 @@
 {
-  "version": "1.2.17",
-  "notes": "Sua LICH DANG cho dung: 'Dang luon' thi page lam xong dau tien dang NGAY, page sau gian dung so phut da cai, bai lan 2 tinh tu lan 1 cua chinh page do (truoc bi don chung mot gio = dang lien tuc). Chan chay bua: page chua gan link nguon / chua cao thi khong chay + bao ro ly do. Bo gioi han so luong chay song song (dat 0 = chay het). Dong bo Google Sheet TU THEM DONG cho page moi; dan link nguon va link Sheet TU LUU. Bai dang ANH chay song song nhu video, theo doi song o man hinh chinh, co hashtag, chu tu sang len khi nen toi, chu de do Gemini lay tu chinh video cua page va khong lap lai. Cao nguon: chan reel la cua khung thong bao lot vao danh sach page. Giao dien: thu gon 2 bang lich, chon tat ca, hien du id reel, khong con nhay len dau trang khi sua cau hinh. Cong don 23 file.",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.17.zip",
-  "sha256": "0ac90465cab82bdb97749493679ab13e4c8da23c87804d85e68e5b435a4ceedf"
+  "version": "1.2.18",
+  "notes": "Va model VEO/GROK: nhay grok NGAY khi 79AI bao model tat han (truoc phai doi du 3 lan resubmit vo ich). Anh tu canh gio: canh cho qua 15' se nhuong canh khac lam truoc thay vi dung khung ca video, quay lai cho tiep sau; loi that bao ngay sau 2 lan (truoc 4 lan). Them o chon MODEL VE ANH rieng o hop Star. Doi model ve anh MAC DINH sang 3.0-omni (nhanh hon banana_pro nhieu khi 79AI dong, van mien phi trong goi).",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.18.zip",
+  "sha256": "a100a96cb3af5aff34436d98db7c1a72d88e95163fd3e62bb04497d5a61b04e6"
 }
