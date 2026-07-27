@@ -1,6 +1,6 @@
 {
-  "version": "1.2.20",
-  "notes": "Them gpt-image-2 (OpenAI truc tiep) vao model ve anh: Tao anh + Dang hang loat (video anh canh + bai dang anh), ca token lan Chrome dung chung 1 danh sach model.",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.20.zip",
-  "sha256": "db2bc150029b979fd55f45ea1db94e42743e6c494095f06a92066c1e2b324da8"
+  "version": "1.2.21",
+  "notes": "Chia se len NHOM khi dang bang Chrome cho CA video lan anh (xoay vong toi da 3 nhom/bai, quet nhom bang API 34 page/52s). Va: log tieng Viet lam chet vong dang tren may khach; 2 page co the trung gio dang; con tro nhom bi ket; kho nhom bi xoa trang khi FB tra rong. Cong don 29 file.",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.21.zip",
+  "sha256": "90dbd598ae2021abdabdfcd5edb5ac2fd368370f8c8c385905e83b4a9c59f090"
 }
