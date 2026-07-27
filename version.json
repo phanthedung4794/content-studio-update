@@ -1,6 +1,6 @@
 {
-  "version": "1.2.21",
-  "notes": "Chia se len NHOM khi dang bang Chrome cho CA video lan anh (xoay vong toi da 3 nhom/bai, quet nhom bang API 34 page/52s). Va: log tieng Viet lam chet vong dang tren may khach; 2 page co the trung gio dang; con tro nhom bi ket; kho nhom bi xoa trang khi FB tra rong. Cong don 29 file.",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.21.zip",
-  "sha256": "90dbd598ae2021abdabdfcd5edb5ac2fd368370f8c8c385905e83b4a9c59f090"
+  "version": "1.2.22",
+  "notes": "Chia se len NHOM khi dang bang Chrome cho CA video lan anh (toi da 3 nhom/bai, xoay vong). Va: log tieng Viet lam chet vong dang tren may khach; 2 page trung gio dang; con tro nhom bi ket; kho nhom bi xoa trang; tu thu lai 1 lan khi composer khong kip render. Cong don 29 file.",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.22.zip",
+  "sha256": "9b29a04afd2956d03bd5bb49a59bbee0cba6f54a8aecf51eb35f541e303caf53"
 }
