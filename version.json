@@ -1,6 +1,6 @@
 {
-  "version": "1.2.27",
-  "notes": "NHOM PAGE hien o MOI KHU VUC, khong chi Tong quan page. Truoc day gom nhom o Tong quan page nhung sang cac tab khac van la danh sach phang, 20-30 page nhin rat roi. Nay nhom ap cho: Nguon & Kho dem, Danh Sach Nguon, Thu vien (Chi so page), Lich dang (Theo page); tab San xuat chen dai ten nhom phan cach + xep page cung nhom lien nhau. Trang thai gap/mo DUNG CHUNG - mo nhom o tab nay thi sang tab khac van mo; moi luoi co nut 'Mo nhom / Gap nhom'. Dau nhom o Danh Sach Nguon co o tick CA NHOM (tien cho viec phan tich lai ca cum page). So dem ghi dang 'n/tong page' khi luoi dang loc hoac chi liet ke page co bai - truoc day ghi tron '1 page' cho nhom 15 page nen nhin nhu mat page. Ten nhom hien mau VANG o moi noi cho de nhin. LUU Y: nhom GAP SAN o moi luoi (giong Tong quan page von co) - mo Nguon & Kho dem se thay 3 dong thay vi 32, bam 'Mo nhom' la ra het. Cong don 30 file.",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.27.zip",
-  "sha256": "37f888f5a560ca96af5817ccbcad7f929185479477fa560f562b011b873fd014"
+  "version": "1.2.28",
+  "notes": "Vá cào nguồn hỏng mà trông như thành công (khách thấy page nào cũng 10 reel); ảnh lỗi báo đúng lý do 79AI + thử lại 4 lần giãn cách tăng dần; hết gán nhầm hoạt hình là ảnh tĩnh (mất chuyển động, ra Ken Burns); không chặn quét nhóm khi bài còn hẹn xa. Cộng dồn 30 file.",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.28.zip",
+  "sha256": "9b7f7b0f5c50981040a88ab2ac9f2b5f75f2015d8131ffe26b8bd7c9ad605cee"
 }
