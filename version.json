@@ -1,6 +1,6 @@
 {
-  "version": "1.2.28",
-  "notes": "Vá cào nguồn hỏng mà trông như thành công (khách thấy page nào cũng 10 reel); ảnh lỗi báo đúng lý do 79AI + thử lại 4 lần giãn cách tăng dần; hết gán nhầm hoạt hình là ảnh tĩnh (mất chuyển động, ra Ken Burns); không chặn quét nhóm khi bài còn hẹn xa. Cộng dồn 30 file.",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.28.zip",
-  "sha256": "9b7f7b0f5c50981040a88ab2ac9f2b5f75f2015d8131ffe26b8bd7c9ad605cee"
+  "version": "1.2.29",
+  "notes": "Reel nguon bi xoa/rieng tu: bao ro ID + tu bo qua lam reel khac thay vi chet ca luot; sua duoc GIO DANG cua bai trong kho cho Chrome (bam vao gio, hoac chon nhieu bai roi doi/doi +- phut). Cong don 31 file.",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.29.zip",
+  "sha256": "22c37fff11ed655d0ff8ec753e809805a932c2c1a2e8659d07827ad5e18eb654"
 }
