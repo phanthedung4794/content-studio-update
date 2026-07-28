@@ -1,6 +1,6 @@
 {
-  "version": "1.2.25",
-  "notes": "Sua LOI NOI DUNG anh huong phan lon so page: tool tu keo MOI bai ve chu de lang que / tuoi tho / hoai niem du nguon khong he nhu vay. (1) Chuoi '1990s rural Vietnamese setting' bi gan cung vao MOI prompt ve anh - page hai cong so lam lai ra nen duong dat, nha tranh, bo song, trong khi chinh canh do tu ta la 'van phong cua kinh lon'. Nay boi canh doc TU CHINH VIDEO NGUON (Gemini vua xem video nen khong ton them gi); khong doc duoc thi chi giu 'Vietnamese, not European' chu khong ep lang que. (2) Khau viet hook + tus bi ep dong vai 'chuyen gia noi dung hoai niem / tam su / doi song que' - video hai cong so caption '5h30 belike' ra hook '5H30 SANG o QUE / RAT DOI BINH YEN' va tus ta tieng ga gay, mui khoi bep; nay ra 'DUNG 5H30 / TAN LAM LA CHAY'. Vá ca duong VIDEO lan duong ANH, va cho khau viet tus biet boi canh that cua video. (3) Phan tich nguon: dinh nghia ro 'kieu anh' la NHIN BANG MAT chu khong phai noi ve cai gi, va cam tra chu de chung chung kieu 'gia dinh va cuoc song'. (4) Danh Sach Nguon them tich chon tung page de phan tich le, khoi phai chay lai ca lo. (5) Tong quan page bao ngay tren cot Trang thai page nao CHUA phan tich nguon. Cong don 30 file.",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.25.zip",
-  "sha256": "3e3a6708570619b3278b46ce3536d56518f0ac03785dad5123194da1b7b4e48b"
+  "version": "1.2.26",
+  "notes": "Dong bo Google Sheet bao ro khi KHONG co page nao. Truoc day Sheet rong (chi con dong tieu de) chi bao mot cau chung chung 'Sheet chua co dong hop le' - nguoi dung khong biet la Sheet that su RONG hay tool doc nham tab. Nay bao ro: doc tab nao (kem gid, hoac ghi 'TAB DAU TIEN' khi link khong co gid), thay bao nhieu dong, va goi y neu du lieu nam o tab khac thi mo dung tab roi copy lai link (luc do link se kem #gid). Dong bo VAN chi THEM page co trong Sheet vao luoi, KHONG go bo dong nao dang co. Cong don 30 file.",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.26.zip",
+  "sha256": "99189f1bbccd9583b556fd24d69a14090d783ca6dfdeb4b683f9ebf80a7e0904"
 }
