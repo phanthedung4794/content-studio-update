@@ -1,6 +1,6 @@
 {
-  "version": "1.2.23",
-  "notes": "Sua 3 lo hong lo ra khi chuan bi chay ca 2 luong video+anh: (1) Star video roi Star anh cho cung page o che do len lich thi hai bai ra CUNG MOT GIAY - kho cho nay tu tach ra 5 phut; (2) buoc phan tich nguon khong he do anh tinh/chuyen dong - nay do luon (0 credit) va hien o the phan tich, nguon tinh thi doi sang Ken Burns va bo phan credit clip; (3) nut X o Nguon and Kho dem chi go dong tren man hinh - nay xoa sach du lieu page do trong tool (co sao luu, giu nguon dung chung), them nut Lam lai tu dau cho khach tu reset. Cong don 30 file.",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.23.zip",
-  "sha256": "57d1fce52b9f5636885e2cc6e0832c1a8c4d2c41a1b54d1f443d7d2fa6bba8bf"
+  "version": "1.2.24",
+  "notes": "Sua tiep 3 lo hong lo ra khi chay THAT ca hai che do dang (11 bai da dang, 34 luot kem nhom): (1) bai thu 2 cua luong ANH dung SAI MOC GIO - hen 11:20 trong khi bai 1 hen 11:30, tuc som hon ca bai dau; goc la vong cron noi tiep doc cau hinh DA LUU ma phan luu lai quen mat gio hen + che do dang. (2) Chot chan chong trung gio de cung 5 phut nen VIET LAI ca lich nguoi dung cai: cai gian cach 2 phut thi 10 page bi keo thanh +45 phut thay vi +18 phut, 30 page thanh 2,4 gio thay vi 58 phut; nay cua so = min(3 phut, gian cach da cai) va khong bao gio rong hon cai dat. (3) Cu day chong trung co the dap len dung bai ke tiep cua chinh page do (hai bai cung mot giay). Cong don 30 file.",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.24.zip",
+  "sha256": "2e3f2ab3b4936e321df1d050dd845e509593d7a6eff9632e11cc0c49dcc41021"
 }
