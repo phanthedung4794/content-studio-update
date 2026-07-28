@@ -1,6 +1,6 @@
 {
-  "version": "1.2.22",
-  "notes": "Chia se len NHOM khi dang bang Chrome cho CA video lan anh (toi da 3 nhom/bai, xoay vong). Va: log tieng Viet lam chet vong dang tren may khach; 2 page trung gio dang; con tro nhom bi ket; kho nhom bi xoa trang; tu thu lai 1 lan khi composer khong kip render. Cong don 29 file.",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.22.zip",
-  "sha256": "9b29a04afd2956d03bd5bb49a59bbee0cba6f54a8aecf51eb35f541e303caf53"
+  "version": "1.2.23",
+  "notes": "Sua 3 lo hong lo ra khi chuan bi chay ca 2 luong video+anh: (1) Star video roi Star anh cho cung page o che do len lich thi hai bai ra CUNG MOT GIAY - kho cho nay tu tach ra 5 phut; (2) buoc phan tich nguon khong he do anh tinh/chuyen dong - nay do luon (0 credit) va hien o the phan tich, nguon tinh thi doi sang Ken Burns va bo phan credit clip; (3) nut X o Nguon and Kho dem chi go dong tren man hinh - nay xoa sach du lieu page do trong tool (co sao luu, giu nguon dung chung), them nut Lam lai tu dau cho khach tu reset. Cong don 30 file.",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.23.zip",
+  "sha256": "57d1fce52b9f5636885e2cc6e0832c1a8c4d2c41a1b54d1f443d7d2fa6bba8bf"
 }
