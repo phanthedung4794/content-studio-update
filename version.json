@@ -1,6 +1,6 @@
 {
-  "version": "1.2.32",
-  "notes": "Sua GEMINI_MODEL ghim cung (giam ~10 lan chi phi API) + them tinh nang Nhan vat NOI THAT (remake_dialogue, tuy chon thu nghiem o tab Danh Sach Nguon)",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.32.zip",
-  "sha256": "79604b37ba9fdb7787a937fa1d523e4272b15f9dd591e195135f4d28af0d87ac"
+  "version": "1.2.33",
+  "notes": "Nhan vat NOI THAT dung duoc o hop Star (truoc chi co o duong tay) + vua chay 79AI ban thi tu cho roi thu lai thay vi chet job",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.33.zip",
+  "sha256": "0e2508531db2d2ccd76e4afe602cb047af252a7ac116200958b747be4c6641f2"
 }
