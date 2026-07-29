@@ -1,6 +1,6 @@
 {
-  "version": "1.2.30",
-  "notes": "Bai DA LEN ma Chrome bao that bai: nay hoi Facebook bang token truoc khi ghi loi (do that 29/07: 7 bai bao loi 'khong thay dau hieu da gui sau 180s' nhung ca 7 deu da len dung gio hen — bam Thu lai la dang trung). Them nut 'Kiem bang token' o kho cho Chrome de quet lai bai dang do. Cong don 32 file.",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.30.zip",
-  "sha256": "1858499b7117a1527a24b7080c41fa77c386deaae5825e7034b409b811f2a7bd"
+  "version": "1.2.31",
+  "notes": "Cao them nguon KHONG lam lai reel da lam (so da lam nam file rieng, reel moi noi vao duoi). Va lo: cao HUT ma co rac thi kho dem bi cat con bang lan cao — do that 157 reel tut con 10, mat hang tram reel dang cho; nay chi bo dung id rac. Cong don 32 file.",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.31.zip",
+  "sha256": "b6ed233a0aa1c0ffa7d2f737bed3179931e7d8a0960ef91ebfa20464352a087f"
 }
