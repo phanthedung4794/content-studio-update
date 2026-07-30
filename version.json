@@ -1,6 +1,6 @@
 {
-  "version": "1.2.33",
-  "notes": "Nhan vat NOI THAT dung duoc o hop Star (truoc chi co o duong tay) + vua chay 79AI ban thi tu cho roi thu lai thay vi chet job",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.33.zip",
-  "sha256": "0e2508531db2d2ccd76e4afe602cb047af252a7ac116200958b747be4c6641f2"
+  "version": "1.2.34",
+  "notes": "Sua loi OpenAI chan toc do lam CHET ca video (nay tu xep hang 5 anh/phut roi thu lai) + tab Lam 1 video chay dung quy trinh cua Dang hang loat, co hook chu va nut Tai ve. Cong don 33 file.",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.34.zip",
+  "sha256": "21531eed268db7a99e44c74aec4b44d4ead77b2a0186c8971435ebee6272e081"
 }
