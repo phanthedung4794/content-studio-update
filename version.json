@@ -1,6 +1,6 @@
 {
-  "version": "1.2.35",
-  "notes": "Hop Star hien SO THAT khi chon gpt-image-2: bao nhieu anh, bao nhieu tien, cho toi thieu may phut (thay loi khuyen cu da loi thoi). Cong don 33 file.",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.35.zip",
-  "sha256": "c0bcd1a9f0b1a99919d42960f3eb1fbbb9d7d3c7a00aa87dba95f49f8e034763"
+  "version": "1.2.36",
+  "notes": "Tab Lam 1 video: dan link reel da tai san thi dung lai ngay, khong tai lai va khong can Chrome. Cong don 33 file.",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.36.zip",
+  "sha256": "1ca36fb5d1b208299ec9eabd963d3b7de90fc9277801806fb279dce27ee13506"
 }
