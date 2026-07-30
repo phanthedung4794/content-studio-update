@@ -1,6 +1,6 @@
 {
-  "version": "1.2.34",
-  "notes": "Sua loi OpenAI chan toc do lam CHET ca video (nay tu xep hang 5 anh/phut roi thu lai) + tab Lam 1 video chay dung quy trinh cua Dang hang loat, co hook chu va nut Tai ve. Cong don 33 file.",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.34.zip",
-  "sha256": "21531eed268db7a99e44c74aec4b44d4ead77b2a0186c8971435ebee6272e081"
+  "version": "1.2.35",
+  "notes": "Hop Star hien SO THAT khi chon gpt-image-2: bao nhieu anh, bao nhieu tien, cho toi thieu may phut (thay loi khuyen cu da loi thoi). Cong don 33 file.",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.35.zip",
+  "sha256": "c0bcd1a9f0b1a99919d42960f3eb1fbbb9d7d3c7a00aa87dba95f49f8e034763"
 }
