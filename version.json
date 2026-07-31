@@ -1,6 +1,6 @@
 {
-  "version": "1.2.36",
-  "notes": "Tab Lam 1 video: dan link reel da tai san thi dung lai ngay, khong tai lai va khong can Chrome. Cong don 33 file.",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.36.zip",
-  "sha256": "1ca36fb5d1b208299ec9eabd963d3b7de90fc9277801806fb279dce27ee13506"
+  "version": "1.2.37",
+  "notes": "Tab Lam 1 video: bo 2 o phai nhap tay (so canh / so canh lam cung luc) — tool tu cat canh theo nhip video nguon, giong het duong Dang hang loat. Cong don 33 file.",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.37.zip",
+  "sha256": "d5c923c602ae0730e8a1aa2fa9aba4131d74088c9149a256811f5a29fed4eab9"
 }
