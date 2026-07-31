@@ -1,6 +1,6 @@
 {
-  "version": "1.2.37",
-  "notes": "Tab Lam 1 video: bo 2 o phai nhap tay (so canh / so canh lam cung luc) — tool tu cat canh theo nhip video nguon, giong het duong Dang hang loat. Cong don 33 file.",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.37.zip",
-  "sha256": "d5c923c602ae0730e8a1aa2fa9aba4131d74088c9149a256811f5a29fed4eab9"
+  "version": "1.2.38",
+  "notes": "Che do Nhan vat noi that: het loi kho hieu 'int object is not subscriptable', bao dung ly do (79AI tat dich vu / duration khong hop le), va khoa model ve VEO. Cong don 33 file.",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.38.zip",
+  "sha256": "202685c0c57b55d6612dceecbf00c04c2263a2123a98095430b95f41680a448d"
 }
