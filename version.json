@@ -1,6 +1,6 @@
 {
-  "version": "1.2.38",
-  "notes": "Che do Nhan vat noi that: het loi kho hieu 'int object is not subscriptable', bao dung ly do (79AI tat dich vu / duration khong hop le), va khoa model ve VEO. Cong don 33 file.",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.38.zip",
-  "sha256": "202685c0c57b55d6612dceecbf00c04c2263a2123a98095430b95f41680a448d"
+  "version": "1.2.39",
+  "notes": "Tab Lam 1 video: them nut '✎ Doi' — doi model/kieu anh roi chay lai (giu nguyen anh/clip da lam). Che do noi that tu ep VEO va bao ro. Cong don 33 file.",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.39.zip",
+  "sha256": "2d012c374da08843cb476a2336715e05a7f22f287178a7952d02389f2e694b84"
 }
