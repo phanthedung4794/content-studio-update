@@ -1,6 +1,6 @@
 {
-  "version": "1.2.39",
-  "notes": "Tab Lam 1 video: them nut '✎ Doi' — doi model/kieu anh roi chay lai (giu nguyen anh/clip da lam). Che do noi that tu ep VEO va bao ro. Cong don 33 file.",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.39.zip",
-  "sha256": "2d012c374da08843cb476a2336715e05a7f22f287178a7952d02389f2e694b84"
+  "version": "1.2.40",
+  "notes": "Chan DANG TRUNG (reel da dang thi khong tu len lich nua) + het anh ra TRANH NHIEU O + luoi Loi/Huy hien NGAY va co nut don. Cong don 33 file.",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.40.zip",
+  "sha256": "47b156698ce5b3a2177a5641bff1a8ef2ed6f3ffecb5a713c75cc90b2b280f32"
 }
