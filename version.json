@@ -1,6 +1,6 @@
 {
-  "version": "1.2.40",
-  "notes": "Chan DANG TRUNG (reel da dang thi khong tu len lich nua) + het anh ra TRANH NHIEU O + luoi Loi/Huy hien NGAY va co nut don. Cong don 33 file.",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.40.zip",
-  "sha256": "47b156698ce5b3a2177a5641bff1a8ef2ed6f3ffecb5a713c75cc90b2b280f32"
+  "version": "1.2.41",
+  "notes": "Chan DANG TRUNG (reel da dang khong tu len lich nua) + luoi Loi/Huy hien NGAY va co nut don + che do 'Nhan vat noi that' ghep AUDIO GOC, gan lai chu tren man hinh cua video goc, moi canh chi mot nguoi noi. Cong don 33 file.",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.41.zip",
+  "sha256": "9fa3486b3b98502aaf4aa01ef09e29af32b020f1842b607e228be92832c4b2e9"
 }
