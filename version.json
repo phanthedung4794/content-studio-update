@@ -1,6 +1,6 @@
 {
-  "version": "1.2.42",
-  "notes": "Va loi CAO NGUON ra dung 10 reel (phan trang API tra ve muc ma boc duoc 0 -> nay tu rot sang duong cuon thay vi im lang tra 10 reel) + them XUONG PHIM: muc menu rieng, lam phim ngan nhieu tap tu kich ban, chay doc lap khong dung duong dang hang loat. Cong don 40 file.",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.42.zip",
-  "sha256": "f03a99e05f6623efe52d6e759b4aeb8730eff1dd2fd569ec4e4f7174f0d81e13"
+  "version": "1.2.43",
+  "notes": "Chi lam reel DAT NGUONG LUOT XEM (o moi trong hop Star, mac dinh 0 = giu nguyen hanh vi cu) - tu khi goi 79AI can luot thi moi clip tru credit that, dat nguong de khoi dot tien vao reel it nguoi xem. Kem ban va loi cao nguon ra dung 10 reel va module Xuong phim. Cong don 40 file.",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.43.zip",
+  "sha256": "8c312b430e2a9b16ffd8ce0f83a7c11507f5fe7a0d8075c759545b94f3957df9"
 }
