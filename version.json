@@ -1,6 +1,6 @@
 {
-  "version": "1.2.41",
-  "notes": "Chan DANG TRUNG (reel da dang khong tu len lich nua) + luoi Loi/Huy hien NGAY va co nut don + che do 'Nhan vat noi that' ghep AUDIO GOC, gan lai chu tren man hinh cua video goc, moi canh chi mot nguoi noi. Cong don 33 file.",
-  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.41.zip",
-  "sha256": "9fa3486b3b98502aaf4aa01ef09e29af32b020f1842b607e228be92832c4b2e9"
+  "version": "1.2.42",
+  "notes": "Va loi CAO NGUON ra dung 10 reel (phan trang API tra ve muc ma boc duoc 0 -> nay tu rot sang duong cuon thay vi im lang tra 10 reel) + them XUONG PHIM: muc menu rieng, lam phim ngan nhieu tap tu kich ban, chay doc lap khong dung duong dang hang loat. Cong don 40 file.",
+  "zip_url": "https://raw.githubusercontent.com/phanthedung4794/content-studio-update/main/patches/patch-1.2.42.zip",
+  "sha256": "f03a99e05f6623efe52d6e759b4aeb8730eff1dd2fd569ec4e4f7174f0d81e13"
 }
